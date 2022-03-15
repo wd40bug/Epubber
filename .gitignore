@@ -1,1 +1,4 @@
 /target
+/testing\ schtuff/*
+!/testing\ schtuff/test.epub
+!/testing\ schtuff/better\ test.epub
